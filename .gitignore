@@ -1,0 +1,9 @@
+# Release packages and temporary spreadsheet exports.
+*.zip
+.xlsx
+
+# Local operating-system and editor files.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
